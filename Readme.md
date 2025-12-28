@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aayansh Singh</h1>
 <h3 align="center">
-Software Engineering Enthusiast • Graphics & Systems Developer • Problem Solver
+Software Engineering Enthusiast • Graphics & Systems Learner
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayansh-singh-24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Aayansh-singh-24?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Aayansh-singh-24?label=Stars&style=social" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Aayansh-singh-24&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -14,13 +12,13 @@ Software Engineering Enthusiast • Graphics & Systems Developer • Problem Sol
 ## 👨‍💻 About Me  
 
 <p align="center">
-I am a passionate <strong>Software Engineering enthusiast</strong> focused on
-<strong>Computer Graphics, System Programming, and Problem Solving</strong>.
-I enjoy creating efficient, optimized code and learning advanced systems concepts.
+I am a passionate <b>Software Engineering enthusiast</b> with strong interest in  
+<b>Computer Graphics, System-level Programming, and Problem Solving</b>.
+I enjoy working with low-level systems as well as building efficient applications.
 </p>
 
 <p align="center">
-🎮 Unity • 🧠 OpenGL & GLM • 🖥️ C / C++ • ☕ Java • 🐍 Python • 🐧 Linux & Git • 🛢️ MySQL
+🎮 Unity • 🧠 OpenGL & GLM • 💻 C / C++ • ☕ Java • 🐍 Python • 🐧 Linux • 🔧 Git • 🛢️ MySQL
 </p>
 
 ---
@@ -28,14 +26,14 @@ I enjoy creating efficient, optimized code and learning advanced systems concept
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,opengl,glm,c,cpp,java,python,git,linux,mysql" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=unity,opengl,c,cpp,java,python,git,linux,mysql&perline=9" />
 </p>
 
 <p align="center">
-<strong>Graphics & Game Dev:</strong> Unity, OpenGL, GLM &nbsp;|&nbsp;
-<strong>Languages:</strong> C, C++, Java, Python &nbsp;|&nbsp;
-<strong>Tools:</strong> Git, Linux &nbsp;|&nbsp;
-<strong>Database:</strong> MySQL
+<b>Graphics:</b> Unity, OpenGL, GLM &nbsp;|&nbsp;
+<b>Languages:</b> C, C++, Java, Python &nbsp;|&nbsp;
+<b>Tools:</b> Git, Linux &nbsp;|&nbsp;
+<b>Database:</b> MySQL
 </p>
 
 ---
@@ -43,38 +41,12 @@ I enjoy creating efficient, optimized code and learning advanced systems concept
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/Aayansh-singh-24">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aayansh-singh-24&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Aayansh-singh-24">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayansh-singh-24&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayansh-singh-24&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayansh-singh-24&layout=compact&theme=radical" height="165"/>
 </p>
 
-> These cards show your dynamic GitHub contributions and language usage using GitHub Readme Stats by Anurag Hazra — a popular tool for profile stats. :contentReference[oaicite:0]{index=0}
-
----
-
-## 🔥 GitHub Streak  
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayansh-singh-24&theme=react&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 📈 Contribution Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayansh-singh-24&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayansh-singh-24&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayansh-singh-24&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -82,10 +54,11 @@ I enjoy creating efficient, optimized code and learning advanced systems concept
 ## 📌 What You’ll Find on My GitHub  
 
 <p align="center">
-✔ System-level C / C++ programs<br>
-✔ Interactive Unity & OpenGL graphics projects<br>
+✔ C / C++ system-level programs<br>
+✔ OpenGL-based graphics & math projects<br>
+✔ Unity games and simulations<br>
 ✔ Java & Python applications<br>
-✔ Cleanly structured academic & personal repositories
+✔ Clean academic & personal repositories
 </p>
 
 ---
@@ -93,17 +66,17 @@ I enjoy creating efficient, optimized code and learning advanced systems concept
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/Aayansh-singh-24" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" />
+  <a href="https://github.com/Aayansh-singh-24">
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" />
+  <a href="https://linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ <strong>Explore my repositories and feel free to connect!</strong> ⭐
+⭐ Feel free to explore my repositories and connect with me! ⭐
 </p>
