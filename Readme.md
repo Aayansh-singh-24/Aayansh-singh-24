@@ -77,6 +77,15 @@ I enjoy building optimized, performance-driven solutions using modern tools and 
 ## 📌 What You’ll Find on My GitHub  
 
 <p align="center">
+  Break-Out
+    Developed a classic Breakout game using C++ with a structured game loop, real-time input handling, collision detection,     and 2D rendering.
+  MEdi-Q
+    Built a queue-management system to streamline patient flow using efficient data structures and logic-based scheduling.
+    
+  Run-Away
+    Created an endless-runner style game featuring obstacle avoidance, score tracking, and responsive player controls
+  Solar-System
+      Implemented a real-time 3D solar system in C++ and modern OpenGL with hierarchical transformations, lighting,                 textures, camera control, and skybox rendering.
 ✔ System-level C/C++ programs  
 ✔ OpenGL & math-based rendering projects  
 ✔ Unity game & simulation projects  
