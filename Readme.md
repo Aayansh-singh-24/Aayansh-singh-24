@@ -3,14 +3,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aayansh-singh-24/aayansh-singh-24/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌱 About Me
 - 🔭 Currently working on **Cloud, DevOps & AI Projects**
 - 🌱 Learning **DevOps, Cloud, FastAPI, ML Pipelines**
@@ -71,6 +63,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayansh-singh-24&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayansh-singh-24&theme=tokyonight" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aayansh-singh-24/aayansh-singh-24/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
