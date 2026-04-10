@@ -3,6 +3,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aayansh-singh-24/aayansh-singh-24/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌱 About Me
 - 🔭 Currently working on **Cloud, DevOps & AI Projects**
 - 🌱 Learning **DevOps, Cloud, FastAPI, ML Pipelines**
