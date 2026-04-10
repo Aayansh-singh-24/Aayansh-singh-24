@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Aayansh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayansh-singh-24&label=Profile%20views&color=0e75b6&style=flat" alt="aayansh-singh-24" /> </p>
+<h1 align="center">Hi 👋, I'm Aayansh Singh</h1>
+<h3 align="center">🚀 Aspiring AI Developer | Cloud & DevOps Enthusiast | Graphics Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayansh-singh-24" alt="aayansh-singh-24" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/@aayansh2004" target="blank"><img src="https://img.shields.io/twitter/follow/@aayansh2004?logo=twitter&style=for-the-badge" alt="@aayansh2004" /></a> </p>
+## 🌱 About Me
+- 🔭 Currently working on **Cloud, DevOps & AI Projects**
+- 🌱 Learning **DevOps, Cloud, FastAPI, ML Pipelines**
+- 💬 Ask me about **CI/CD, Cloud Infrastructure, Backend Systems**
+- 🎮 Interested in **Game Development & OpenGL**
+- 📫 Reach me at: **aayanshsingh9211@gmail.com**
 
-- 🌱 I’m currently learning **Devops , Cloud , FastAPI**
+---
 
-- 💬 Ask me about **Cloud infrastructure , CI/CD Pipeline**
-
-- 📫 How to reach me **aayanshsingh9211@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/@aayansh2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aayansh2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayansh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayansh singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aayansh_singh-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayansh_singh-24" height="30" width="40" /></a>
+<a href="https://github.com/aayansh-singh-24" target="blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://twitter.com/" target="blank">
+<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayansh-singh-24&show_icons=true&locale=en&layout=compact" alt="aayansh-singh-24" /></p>
+## 🛠️ Technologies and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayansh-singh-24&show_icons=true&locale=en" alt="aayansh-singh-24" /></p>
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayansh-singh-24&" alt="aayansh-singh-24" /></p>
+### 🚀 DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🧠 Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 🎮 Graphics & Game Dev
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayansh-singh-24&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayansh-singh-24&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🎮 **Run-Away** – C++ Game Project  
+- ❌⭕ **Tic-Tac-Toe Game** – C++  
+- 🌌 **Solar System Simulation** – OpenGL  
+- 🧱 **Break-Out Game** – 2D Game  
+- ⚙️ **CI/CD Pipeline** – DevOps Project  
+- 🤖 **ML Pipeline** – Machine Learning Workflow  
+
+---
+
+## ⚡ Fun Fact
+> I build systems, break them, and rebuild them better 🚀
+
+---
