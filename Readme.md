@@ -14,14 +14,11 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://github.com/aayansh-singh-24" target="blank">
+<a href="https://github.com/Aayansh-singh-24" target="blank">
 <img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/" target="blank">
+<a href="https://www.linkedin.com/in/aayansh-singh" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://twitter.com/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
 </a>
 </p>
 
@@ -59,32 +56,28 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayansh-singh-24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayansh-singh-24&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayansh-singh-24&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aayansh-singh-24&theme=tokyonight" />
 </p>
 
-## 🐍 Contribution Snake
+> Note: the public stats card only sees **public** repo activity unless you self-host it with a personal token — if your 187-contribution graph includes private repos, the numbers above will still run lower than the graph until you deploy your own instance.
 
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aayansh-singh-24/aayansh-singh-24/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aayansh-singh-24/Aayansh-singh-24/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-
-- 🎮 **Run-Away** – C++ Game Project  
-- ❌⭕ **Tic-Tac-Toe Game** – C++  
-- 🌌 **Solar System Simulation** – OpenGL  
-- 🧱 **Break-Out Game** – 2D Game  
-- ⚙️ **CI/CD Pipeline** – DevOps Project  
-- 🤖 **ML Pipeline** – Machine Learning Workflow  
+- 🛡️ **SafeHer** – Women's Safety Application
+- ⚙️ **End-to-End CI/CD Pipeline** – Data-Collection-WebApp
+- 🌌 **Solar System Simulation** – OpenGL
+- 🎮 **Run-Away** – 2D Maze Game (C++)
+- 🤖 **ML Pipeline** – Machine Learning Workflow
 
 ---
 
 ## ⚡ Fun Fact
 > I build systems, break them, and rebuild them better 🚀
-
----
