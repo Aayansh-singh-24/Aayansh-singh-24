@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayansh Singh</h1>
-<h3 align="center">🚀 Aspiring AI Developer | Cloud & DevOps Enthusiast | Graphics Programmer</h3>
+<h3 align="center"> Aspiring AI Developer | Cloud & DevOps Enthusiast | Backend Enginner</h3>
 
 ---
 
@@ -30,7 +30,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🚀 DevOps & Deployment
+###  DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -68,7 +68,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 - 🛡️ **SafeHer** – Women's Safety Application
 - ⚙️ **End-to-End CI/CD Pipeline** – Data-Collection-WebApp
 - 🌌 **Solar System Simulation** – OpenGL
