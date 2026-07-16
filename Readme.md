@@ -78,4 +78,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I build systems, break them, and rebuild them better 🚀
+> I build systems, break them, and rebuild them better 
